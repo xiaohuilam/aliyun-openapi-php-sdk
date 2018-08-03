@@ -9,7 +9,7 @@
     "type": "library",
     "autoload": {
         "classmap": [
-            "aliyun-php-sdk/aliyun-php-sdk-core"
+            "aliyun-php-sdk-core"
         ],
         "psr-4": {
             "aegis\\": "aliyun-php-sdk-aegis/aegis/",
